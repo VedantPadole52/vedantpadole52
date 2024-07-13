@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
 
-- ⚡ Fun fact **I am so Lazy**
+- ⚡ Fun fact **I am Smart worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
