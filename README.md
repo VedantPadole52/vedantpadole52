@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Padole</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=31150CF5D1B3C1B09730D11A29EE90B907F44CDF&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1360%2f0*gqO3slLmGb4mUeje.gif&exph=428&expw=680&q=animated+coding+gif&simid=608007107489447946&FORM=IRPRST&ck=E433F9DA6165A1B6BB5FFAF489A2070A&selectedIndex=9&itb=0">
+<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif"  alt="coder" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantcoder-7&label=Profile%20views&color=0e75b6&style=flat" alt="vedantcoder-7" /> </p>
 
