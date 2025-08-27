@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vedantpadole52" target="blank"><img src="https://img.shields.io/twitter/follow/@vedantpadole52?logo=twitter&style=for-the-badge" alt="@vedantpadole52" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Sharping skill with Tech-Stack**
 
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
 
