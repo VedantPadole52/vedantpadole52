@@ -6,13 +6,14 @@
 <h1 align="center">Hi 👋, I'm Vedant Padole.</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 <h3 align="center">💡 Turning ideas into scalable web products | Empowering tech through clean code & systems thinking</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VedantPadole52&label=Profile%20views&color=0e75b6&style=flat" alt="VedantPadole52" /> </p>
 
 <hr/>
 
 - 📫 How to reach me **vedant.officialwork0@gmail.com**
 
 - <h2 align="left">Connect with me:</h2>
-<p align="Center">
+<p align="Left">
 <a href="https://twitter.com/@VedantPadole52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vedantpadole52" height="50" width="60" /></a> 
 <a href="https://linkedin.com/in/vedant-padole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-padole" height="50" width="60" /></a>
 </p>
