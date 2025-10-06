@@ -10,7 +10,7 @@
 
 <hr/>
 
-- 📫 How to reach me **vedant.officialwork0@gmail.com**
+- 📫 How to reach me **vedant.padole88@gmail.com**
 
 - <h2 align="left">Connect with me:</h2>
 <p align="Left">
@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Sharping skill with Tech-Stack**
 
-- 📫 How to reach me **vedant.officialwork0@gmail.com**
+- 📫 How to reach me **vedant.padole88@gmail.com**
 
 - ⚡ Fun fact **I am Smart worker**
   <hr/>
